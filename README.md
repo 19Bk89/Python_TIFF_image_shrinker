@@ -22,7 +22,7 @@ pip install Pillow
 Installation
 Klonen Sie dieses Repository auf Ihren lokalen Computer:
 
-##Verwendung
+## Verwendung
 Starten Sie das Programm: python tiff-scaler.py
 
 Wählen Sie eine TIFF-Datei aus.
